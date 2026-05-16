@@ -2,6 +2,10 @@
 
 A full-stack task management app for project teams with JWT authentication, Admin/Member role-based access, project assignment, task tracking, and dashboard reporting.
 
+Live app: https://team-task-manager-production-911f.up.railway.app/
+
+Backend health: https://team-task-manager-production-911f.up.railway.app/health
+
 ## Features
 
 - Signup and login with JWT

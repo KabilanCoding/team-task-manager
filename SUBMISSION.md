@@ -2,9 +2,9 @@
 
 ## Required Submission Items
 
-- Live URL: deploy the frontend Railway service and paste its public URL here.
-- Backend URL: deploy the backend Railway service and confirm `/health` returns `{ "status": "ok" }`.
-- GitHub repo: push this project to GitHub and paste the repository URL here.
+- Live URL: https://team-task-manager-production-911f.up.railway.app/
+- Backend Health URL: https://team-task-manager-production-911f.up.railway.app/health
+- GitHub repo: https://github.com/KabilanCoding/team-task-manager
 - README: included at `README.md`.
 - Demo video: record a 2-5 minute walkthrough.
 
@@ -71,10 +71,10 @@ Use this 2-5 minute flow:
 
 ```text
 Project Name: Team Task Manager
-Live URL:
-GitHub Repo:
-Backend Health URL:
-Demo Video:
+Live URL: https://team-task-manager-production-911f.up.railway.app/
+GitHub Repo: https://github.com/KabilanCoding/team-task-manager
+Backend Health URL: https://team-task-manager-production-911f.up.railway.app/health
+Demo Video: demo-recordings/team-task-manager-demo.webm
 
 Tech Stack:
 - React + Vite + Tailwind CSS
